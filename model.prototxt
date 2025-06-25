@@ -1,17 +1,17 @@
 name: "yolox"
 tidl_yolo {
   yolo_param {
-    input: "173"
+    input: "171"
     anchor_width: 8.0
     anchor_height: 8.0
   }
   yolo_param {
-    input: "186"
+    input: "185"
     anchor_width: 16.0
     anchor_height: 16.0
   }
   yolo_param {
-    input: "199"
+    input: "198"
     anchor_width: 32.0
     anchor_height: 32.0
   }
